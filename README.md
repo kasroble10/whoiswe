@@ -1,5 +1,5 @@
 🌴 Jungle
-A high-speed Python network scanner for discovering open ports and grabbing banners — ideal for red team assessments, network labs, or custom automation workflows.
+A high-speed Python network scanner for discovering open ports and grabbing banners  ideal for red team assessments, network labs, or custom automation workflows.
 
 ⚡ Features
 Multi-threaded host and port scanning
@@ -50,6 +50,8 @@ css
 Copy
 Edit
 jungle --subnet 10.0.0.5/32 --ports 22,3389 --threads 5
+
+
 
 
  ██████╗ ██╗   ██╗ ██████╗ ██████╗ ██╗      █████╗ ██████╗ ███╗   ██╗
